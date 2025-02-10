@@ -4,4 +4,4 @@ Here are two of my statistics projects, available in PDF format:
 
 You can also access complete database used for the first and second project on Google Drive: 
 - [Google Drive Folder with Database 1](https://drive.google.com/drive/folders/1_tS5OxCTEt8PU7Pyctvmmit1wXoXTm0a)
-- [Google Drive Folder with Database 2](https://drive.google.com/drive/folders/1_tS5OxCTEt8PU7Pyctvmmit1wXoXTm0a](https://drive.google.com/drive/folders/1v4ufidfTm_xo0LsQgdbIrG7TKvloWVVd?usp=sharing)
+- [Google Drive Folder with Database 2](https://drive.google.com/drive/folders/1v4ufidfTm_xo0LsQgdbIrG7TKvloWVVd?usp=sharing)
